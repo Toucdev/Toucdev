@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toucdev (Toucan)
-- 👀 I’m interested in most aspects about computer programing, also interested in Blender and 3d design.
-- ✏️ I’m currently learning @Roblox lua and Python
-- 💞️ Will collaborate on anything Python related
+- 👀 I’m interested in most aspects about computer programing.
+- ✏️ I’m currently learning luau on @Roblox and CSS/HTML/JS
+- 💞️ Will collaborate on anything Python related and basic web development things
 - 🐦 You can reach me on Twitter (in my bio)
 
 <!---
