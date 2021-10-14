@@ -2,7 +2,7 @@
 - 👀 I’m interested in most aspects about computer programing.
 - ✏️ I’m currently learning luau on @Roblox and CSS/HTML/JS
 - 💞️ Will collaborate on anything Python related and basic web development things
-- 🐦 You can reach me on Twitter (in my bio)
+- 🐦 You can reach me on Twitter and Discord (both in my bio)
 
 <!---
 Toucdev/Toucdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
