@@ -1,14 +1,32 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=toucdev.id&left_color=white&right_color=black)
 
-- 👋 Hi, I’m @Toucdev (Toucan)
-- 👀 I’m interested in most aspects about computer programing.
-- ✏️ I’m currently learning luau on @Roblox and CSS/HTML/JS
-- 💞️ Will collaborate on anything Python related and basic web development things
-- 🐦 You can reach me on Twitter and Discord (both in my bio)
+![Image of toucan](https://cdn.discordapp.com/avatars/429767179333009418/8ecde9881ac1f164be0697639d5a35bf.png?size=160)
 
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toucdev)](https://github.com/anuraghazra/github-readme-stats)
+## Hi! I'm @Toucdev
 
+> Your may have heard of me as **"Toucan"**
+
+👋 I am a middle school student who is interested in computer programming. *(Mainly web and game development)*
+I am better at frontend and graphic design but am trying to learn backend.
+
+📓 Currently taking a pretty bad cs class, hoping to switch.
+
+## Current proficiencies:
+
+> *Beginner means basic understanding, but not able to do many things without help*
+
+🕸️ **HTML/CSS - Intermediate** 
+
+📜 **Javascript - Beginner** 
+
+☕ **Java - Beginner** 
+
+🐍 **Python - Intermediate** 
+
+🌊 **C# - Touched once for a yt tutorial**
+
+### Contribution
+
+I am willing to contribute on anything web development and python related. 
 
 <!---
 Toucdev/Toucdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
