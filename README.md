@@ -1,12 +1,13 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=toucdev.id&left_color=white&right_color=black)
+
 - 👋 Hi, I’m @Toucdev (Toucan)
 - 👀 I’m interested in most aspects about computer programing.
 - ✏️ I’m currently learning luau on @Roblox and CSS/HTML/JS
 - 💞️ Will collaborate on anything Python related and basic web development things
 - 🐦 You can reach me on Twitter and Discord (both in my bio)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=toucdev.id&left_color=green&right_color=red)
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?toucdev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toucdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
