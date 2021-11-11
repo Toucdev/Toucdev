@@ -1,6 +1,3 @@
-
-![Image of toucan](https://cdn.discordapp.com/avatars/429767179333009418/8ecde9881ac1f164be0697639d5a35bf.png?size=160)
-
 ## Hi! I'm @Toucdev
 
 > Your may have heard of me as **"Toucan"**
@@ -13,6 +10,8 @@ I am better at frontend and graphic design but am trying to learn backend.
 ## Current proficiencies:
 
 > *Beginner means basic understanding, but not able to do many things without help*
+
+🔵 **@Roblox LUA*U* - Intermediate/advanced**
 
 🕸️ **HTML/CSS - Intermediate** 
 
