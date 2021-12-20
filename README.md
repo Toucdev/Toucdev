@@ -23,11 +23,11 @@ I am better at frontend and graphic design but am trying to learn backend.
 
 🌊 **C# - Touched once for a yt tutorial**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toucdev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contribution
 
 I am willing to contribute on anything web development and python related. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toucdev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Toucdev/Toucdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
