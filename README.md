@@ -15,7 +15,7 @@ I am better at frontend and graphic design but am trying to learn backend.
 
 🕸️ **HTML/CSS - Intermediate** 
 
-📜 **Javascript - Beginner** (**jquery** - **Beginner**
+📜 **Javascript - Beginner** (**jquery** - **Beginner**)
 
 ☕ **Java - Beginner** 
 
