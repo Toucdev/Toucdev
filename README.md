@@ -5,7 +5,7 @@
 👋 I am a middle school student who is interested in computer programming. *(Mainly web and game development)*
 I am better at frontend and graphic design but am trying to learn backend.
 
-📓 Currently taking a pretty bad cs class, hoping to switch.
+📓 90% Self-taught. YouTube and w3schools are a blessing.
 
 ## Current proficiencies:
 
