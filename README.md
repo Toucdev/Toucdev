@@ -2,14 +2,12 @@
 
 > Your may have heard of me as **"Toucan"**
 
-👋 I am a middle school student who is interested in computer programming. *(Mainly web and game development)*
+👋 I am a high school student who is interested in computer programming. *(Mainly web and game development)*
 I am better at frontend and graphic design but am trying to learn backend.
 
-📓 90% Self-taught. YouTube and w3schools are a blessing.
+📓 90% Self-taught. YouTube and w3schools are a pretty cool.
 
 ## Current proficiencies:
-
-> *Beginner means basic understanding, but not able to do many things without help*
 
 🔵 **@Roblox LUA*U* - Intermediate/advanced**
 
@@ -21,7 +19,7 @@ I am better at frontend and graphic design but am trying to learn backend.
 
 🐍 **Python - Intermediate** 
 
-🌊 **C# - Touched once for a yt tutorial**
+🌊 **C# - Have some basic experience with**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toucdev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
